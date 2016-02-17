@@ -1,0 +1,13 @@
+.container-content {
+  padding-top: 5em;
+}
+
+#heading {
+  color: #000000;
+  text-decoration: none;
+}
+
+#heading, a:hover {
+  text-decoration: none;
+  color: #000000;
+}
