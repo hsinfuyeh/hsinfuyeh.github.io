@@ -3,7 +3,7 @@ GENERAL
 ****************************************/
 
 body {
-  font-family: 'Open sans', sans-serif;
+  font-family: 'Open sans', sans-serif, 新細明體;
 }
 
 #wrapper {
@@ -28,7 +28,7 @@ HEADING
 }
 
 h1 {
-  font-family: 'Changa One', sans-serif;
+  font-family: 'Changa One', sans-serif, 新細明體;
   margin: 15px 0
   font-size: 1.75em;
   font-weight: normal;
