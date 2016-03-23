@@ -3,7 +3,7 @@ GENERAL
 ****************************************/
 
 body {
-  font-family: 'Open sans', sans-serif, 新細明體;
+  font-family: 'Open Sans', sans-serif, 新細明體;
 }
 
 #wrapper {
@@ -74,7 +74,7 @@ nav ul {
   padding: 0;
 }
 
-nav ul li {
+nav li {
   display: inline-block;
 }
 
@@ -92,7 +92,7 @@ FOOTER
 footer {
   font-size: 0.75em;
   text-align: center;
-  clear:both;
+  clear: both;
   padding-top: 50px;
   color: #ccc;
 }
@@ -166,15 +166,15 @@ PAGE: CONTACT
 }
 
 .contact-info li.phone a {
-  background-image: url('../img/phone.png')
+  background-image: url('../img/phone.png');
 }
 
 .contact-info li.mail a {
-  background-image: url('../img/mail.png')
+  background-image: url('../img/mail.png');
 }
 
 .contact-info li.twitter a {
-  background-image: url('../img/twitter.png')
+  background-image: url('../img/twitter.png');
 }
 
 
