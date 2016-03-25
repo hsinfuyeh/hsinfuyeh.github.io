@@ -25,11 +25,11 @@
   PAGE: PORTFOLIO
   ****************************************/
 
-  #gallery li {
+  #article li {
     width: 28.33333%;
   }
 
-  #gallery li:nth-child(4n) {
+  #article li:nth-child(4n) {
     clear: left;
   }
 
@@ -60,7 +60,7 @@
     width: 45%;
   }
 
-  #logo {
+  #title {
     float: left;
     margin-left: 5%;
     text-align: left;
@@ -71,12 +71,12 @@
     font-size: 2.5em;
   }
 
-  h2 {
+  h3 {
     font-size: 0.825em;
     margin-bottom: 20px;
   }
   header {
-    border-bottom: 5px solid #599a68;
+    border-bottom: 5px solid rgb(125, 107, 217);
     margin-bottom: 60px;
   }
 }

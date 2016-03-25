@@ -1,2 +1,0 @@
-# BootstrapTemplate
-practice
