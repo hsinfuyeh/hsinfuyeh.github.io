@@ -16,6 +16,14 @@ a {
   text-decoration: none;
 }
 
+img {
+  max-width: 100%;
+}
+
+h3 {
+  margin: 0 0 1em 0;
+}
+
 
 
 /****************************************
@@ -25,6 +33,8 @@ a {
 header {
   float: left;
   width: 100%;
+  margin: 0 0 30px 0;
+  padding: 5px 0 0 0;
 }
 
 #title {
@@ -44,6 +54,9 @@ h3 {
   font-family: 'Roboto Condensed', sans-serif, 微軟正黑體;
   font-size: 0.9em;
 }
+
+
+
 /****************************************
  NAVIGATION
 ****************************************/
@@ -68,7 +81,7 @@ nav li {
 nav a {
   font-weight: normal;
   font-size: 1.2em;
-  padding: 0.75em;
+  padding: 15px 10px;
 }
 
 
@@ -99,10 +112,6 @@ nav a {
 
 
 
-
-
-
-
 /****************************************
  FOOTER
 ****************************************/
@@ -121,6 +130,21 @@ footer {
 }
 
 
+
+/****************************************
+ PAGE: ABOUT
+****************************************/
+
+.profile-photo {
+  margin: 0 auto 30px;
+  display: block;
+  max-width: 150px;
+  border-radius: 100%;
+}
+
+section h3, section p {
+  text-align: left;
+}
 
 /****************************************
  COLOR
