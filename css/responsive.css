@@ -15,11 +15,6 @@
     width: 28.33333%;
   }
 
-  #article li:nth-child(4n) {
-    clear: left;
-  }
-
-
 
   /****************************************
   PAGE: ABOUT
@@ -67,7 +62,7 @@
   }
 
   header {
-    margin-bottom: 60px;
+    margin-bottom: 30px;
     border-bottom: 5px solid rgb(125, 107, 217);
   }
 }
