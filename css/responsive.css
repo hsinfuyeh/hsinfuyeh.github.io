@@ -41,7 +41,6 @@
     background: none;
     float: right;
     font-size: 1.125em;
-    padding-top: 30px;
     margin-right: 5%;
     text-align: right;
     width: 45%;
@@ -58,12 +57,13 @@
     font-size: 2.5em;
   }
 
-  h3 {
+  h2 {
     font-size: 0.825em;
     margin-bottom: 20px;
   }
+
   header {
-    border-bottom: 5px solid rgb(125, 107, 217);
     margin-bottom: 60px;
+    border-bottom: 5px solid rgb(125, 107, 217);
   }
 }
