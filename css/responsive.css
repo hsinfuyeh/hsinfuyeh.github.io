@@ -57,9 +57,13 @@
     font-size: 2.5em;
   }
 
-  h2 {
-    font-size: 0.825em;
+  h3 {
+    font-size: 1em;
     margin-bottom: 20px;
+  }
+
+  section p {
+    font-size: 1.055em;
   }
 
   header {

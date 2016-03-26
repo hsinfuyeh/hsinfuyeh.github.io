@@ -138,11 +138,16 @@ footer {
 ****************************************/
 
 .profile-photo {
-  margin: 0 auto 30px;
   display: block;
   max-width: 150px;
+  margin: 0 auto 30px;
   border-radius: 100%;
 }
+
+h2 {
+  font-size: 1.3em;
+}
+
 
 
 /****************************************
