@@ -13,10 +13,7 @@
 
   #article li {
     width: 28.33333%;
-  }
-
-  #aritcle li:nth-child(4n) {
-    clear: right;
+    margin-bottom: 5%;
   }
 
 
@@ -61,6 +58,11 @@
     font-size: 1em;
     margin-bottom: 20px;
   }
+
+  section {
+
+  }
+
 
   section p {
     font-size: 1.055em;
