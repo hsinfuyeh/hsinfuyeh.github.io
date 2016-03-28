@@ -98,20 +98,28 @@ nav a {
 
 #article li {
   float: left;
-  width: 45%;
-  margin: 2.5%;
+  width: 95%;
+  margin: 2.5% 2.5% 5% 2.5%;
   background-color: #eeeeee;
   color: #777777;
+  line-height: auto;
 }
 
 #article li h3 {
   text-align: center;
-  font-size: 1em;
+  font-size: 1.2em;
 }
 
 #article li p {
   text-align: center;
+  font-size: 0.9em;
 }
+
+#article li a p:hover {
+  font-weight: bolder;
+}
+
+
 
 /****************************************
  FOOTER
@@ -177,4 +185,16 @@ nav a, nav a:visited {
 
 nav a.selected, nav a:hover {
   color: #666;
+}
+
+#article li h3 {
+  color: #a685ec;
+}
+
+#article li p {
+  color:#777777;
+}
+
+#article li a p:hover {
+  color: #a685ec;
 }
