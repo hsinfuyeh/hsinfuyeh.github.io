@@ -16,7 +16,7 @@
   }
 
   #aritcle li:nth-child(4n) {
-    clear: left;
+    clear: right;
   }
 
 
