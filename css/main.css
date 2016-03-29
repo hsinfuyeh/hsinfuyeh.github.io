@@ -100,9 +100,8 @@ nav a {
   float: left;
   width: 95%;
   margin: 2.5% 2.5% 3% 2.5%;
-  background-color: #eeeeee;
-  color: #777777;
   line-height: auto;
+  border-bottom: 2px solid #a685ec;
 }
 
 #article li h3 {
@@ -136,6 +135,7 @@ footer {
   width: 30px;
   height: 30px;
   margin: 0 0 -10px 0;
+  border-radius: 100%;
 }
 
 
@@ -185,6 +185,11 @@ nav a, nav a:visited {
 
 nav a.selected, nav a:hover {
   color: #666;
+}
+
+#article li {
+  background-color: #eeeeee;
+  color: #777777;
 }
 
 #article li h3 {
