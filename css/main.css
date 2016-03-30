@@ -100,8 +100,7 @@ nav a {
   float: left;
   width: 95%;
   margin: 2.5% 2.5% 3% 2.5%;
-  line-height: auto;
-  border-bottom: 2px solid #a685ec;
+  border-radius: 12px;
 }
 
 #article li h3 {
