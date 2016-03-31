@@ -9,3 +9,10 @@ categories: jekyll update
 <h1 id="top">Title</h1>
 <a href="#top"><p>Back to Top</p></a>
 {% endhighlight %}
+
+<bold>padding</bold>
+{% highlight ruby %}
+padding: up right bottom left;
+padding: up right and left bottom;
+padding: up and bottom right and bottom;
+{% endhighlight %}
