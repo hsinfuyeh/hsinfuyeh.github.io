@@ -1,15 +1,13 @@
 ---
 layout: post
-title:  "Test Article"
-date:   2016-03-31 13:47:32 +0800
+title:  "CSS Reference"
+date:   2016-03-31
 categories: jekyll update
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis imperdiet felis sit amet rhoncus. Duis viverra sit amet massa quis aliquam. Donec maximus nulla vitae convallis euismod. Nulla non pulvinar quam. Praesent augue est, scelerisque quis sapien et, sagittis aliquet nunc. Quisque gravida, risus vitae pharetra tincidunt, massa neque convallis ex, sit amet porttitor nibh turpis non mauris. Duis dui libero, lacinia facilisis ultrices eu, hendrerit in risus. Nullam est sapien, tincidunt ac tincidunt eget, dapibus ut felis.
+[MDN CSS Reference][MDN-CSS-Reference]
+[MDN CSS Data Types][MDN-CSS-Data-Types]
+[CSS Fonts][CSS-Fonts]
 
-In a ipsum eu dolor lobortis ultricies eget nec est. Fusce ac justo faucibus, ultricies lacus tincidunt, posuere mi. Nullam varius nisl nibh, sed vulputate justo blandit ac. Suspendisse interdum tempus augue, non congue orci sollicitudin eu. Quisque auctor quam vehicula, imperdiet quam sit amet, dictum neque. Phasellus porta interdum sollicitudin. Maecenas at luctus justo.
-
-Phasellus vel risus euismod, dictum arcu vitae, molestie arcu. Proin ex dolor, aliquam eu bibendum vitae, aliquet eget quam. In imperdiet, quam sed sollicitudin accumsan, urna ipsum finibus ligula, vel accumsan orci est eu tortor. Ut ullamcorper velit ac finibus fermentum. Integer metus lectus, auctor id justo vitae, tempus facilisis nisl. Cras volutpat ex ut vulputate tincidunt. Praesent vitae dictum est, vitae rhoncus felis. In pellentesque, odio ac congue laoreet, turpis erat venenatis diam, sed consequat nisi libero et erat. Nullam aliquet id ante non fringilla. Cras ultrices a orci non ultrices. Mauris eget turpis enim. Ut congue cursus scelerisque. Curabitur ante nisl, condimentum et porttitor non, viverra molestie arcu.
-
-Duis aliquet risus ac diam consequat, efficitur elementum ante dignissim. Sed consectetur volutpat eros nec iaculis. Sed tortor nunc, imperdiet ut pretium eu, lobortis non ipsum. Donec at mauris quis nulla dignissim ullamcorper. Nullam condimentum vehicula velit, vitae tincidunt quam tristique sed. Quisque varius ligula ipsum, nec malesuada arcu vulputate vitae. Etiam eget sagittis lacus.
-
-Vestibulum pretium vitae purus sit amet euismod. Cras iaculis varius condimentum. Donec auctor urna urna, ut sagittis mi tempor ac. Etiam quis iaculis dui. Duis tempus, tortor malesuada venenatis viverra, enim sapien tincidunt leo, id laoreet sapien risus ac massa. Nullam efficitur urna pulvinar, finibus dolor egestas, commodo arcu. Sed fermentum vel enim non rhoncus. Aliquam ut tempor ipsum.
+[MDN-CSS-Reference]:https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+[MDN-CSS-Data-Types]:https://developer.mozilla.org/en-US/docs/tag/CSS%20Data%20Type
+[CSS-Fonts]:http://www.cssfontstack.com/
