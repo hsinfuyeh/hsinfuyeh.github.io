@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CSS Syntax Notes"
+title:  "Responsive Layouts"
 date:   2016-04-01 18:39:30 +0800
 categories: jekyll update
 ---
