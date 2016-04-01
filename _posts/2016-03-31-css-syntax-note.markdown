@@ -19,7 +19,7 @@ padding: up and bottom right and bottom;
 
 <h3>background</h3>
 {% highlight ruby %}
-background: color url() repeat center(background-position) / cover(background-  size)
+background: color url(#) repeat center(background-position) / cover(background-  size)
 {% endhighlight %}
 
 <h3>fix the collapse after float</h3>
@@ -35,3 +35,38 @@ overflow: auto;
   clear: both;
 }
 {% endhighlight %}
+
+<h3>text-shadow</h3>
+{% highlight ruby %}
+text-shadow: inset horizontal vertical blur-radius spread color;
+{% endhighlight %}
+inset: shadow is inside the object.<br>
+
+<h3>Add fonts</h3>
+Font Squirrel: [https://www.fontsquirrel.com/][Font Squirrel]
+{% highlight ruby %}
+@font-face {
+  font-family: 'name of font';
+  src: url('#');
+}
+{% endhighlight %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Font Squirrel]:https://www.fontsquirrel.com/
