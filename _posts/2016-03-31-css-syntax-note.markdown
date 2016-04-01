@@ -35,22 +35,3 @@ overflow: auto;
   clear: both;
 }
 {% endhighlight %}
-
-<h3>list-style-type</h3>
-[list-style-type][list-style-type]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[list-style-type]:https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type
