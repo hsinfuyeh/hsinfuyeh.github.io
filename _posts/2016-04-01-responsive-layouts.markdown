@@ -10,7 +10,6 @@ MDN CSS media queries: [https://teamtreehouse.com/library/css-basics/designing-w
 MDN @media:
 [https://developer.mozilla.org/en-US/docs/Web/CSS/@media][MDN @media]
 <br>
-<br>
 {% highlight ruby %}
 @media (max-width: 960px) {
     body {
@@ -32,3 +31,6 @@ MDN @media:
 {% highlight ruby %}
 <mata name="viewport" content="width=device-width">
 {% endhighlight %}
+
+[MDN CSS media queries]:https://teamtreehouse.com/library/css-basics/designing-with-the-latest-features/media-queries
+[MDN @media]:https://developer.mozilla.org/en-US/docs/Web/CSS/@media
