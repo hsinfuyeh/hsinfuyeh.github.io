@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "JaveScript References"
-date:   2016-04-07 19:22:42 +0800
+date:   2016-04-04 17:52:43 +0800
 categories: jekyll update
 ---
 <h3>1.JavaScript Reserved Words</h3>
