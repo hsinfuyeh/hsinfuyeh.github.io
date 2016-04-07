@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "JaveScript References"
+title:  "JavaScript References"
 date:   2016-04-04 17:52:43 +0800
 categories: jekyll update
 ---
