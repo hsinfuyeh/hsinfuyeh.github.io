@@ -27,3 +27,33 @@ equals to
 {% highlight ruby %}
 message = message + "I am so glad that you came here to visit, "
 {% endhighlight %}
+
+<h3>String</h3>
+{% highlight ruby %}
+var stringToShout = prompt('What should I shout?');
+var shout = stringToShout.toUpperCase();
+shout += '!!!';
+alert(shout);
+{% endhighlight %}
+[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String][String]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[String]:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String

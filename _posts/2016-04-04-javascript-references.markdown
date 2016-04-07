@@ -7,6 +7,8 @@ categories: jekyll update
 <h3>1.JavaScript Reserved Words</h3>
 [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Keywords][JavaScript-Reserved-Words]
 
+<h3>2.JavaScript References</h3>
+[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference][JavaScript-Reference]
 
 
 
@@ -17,5 +19,5 @@ categories: jekyll update
 
 
 
-
-[JavaScript-Reserved-Words]:[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Keywords]
+[JavaScript-Reserved-Words]:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Keywords
+[JavaScript-Reference]:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
