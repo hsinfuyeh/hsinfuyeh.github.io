@@ -37,6 +37,8 @@ alert(shout);
 {% endhighlight %}
 [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String][String]
 
+<h3>numbers</h3>
+`parseInt: converts string into number`
 
 
 
