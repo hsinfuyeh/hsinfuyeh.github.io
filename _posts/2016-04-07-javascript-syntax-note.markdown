@@ -40,7 +40,16 @@ alert(shout);
 <h3>numbers</h3>
 `parseInt: converts string into number`
 
+<h3>Math</h3>
+`Math.floor: round the number down`
+`Math.ceil: round the number up`
+`Math.random: give a randon number from 0 to 1 (not include 1).`
 
+{% highlight ruby %}
+var dieRoll = Math.floor( Math.random() * 6 ) + 1;
+alert('You rolled a ' + dieRoll);
+{% endhighlight %}
+You will get a random number from 1 to 6.
 
 
 
