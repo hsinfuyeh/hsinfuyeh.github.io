@@ -41,9 +41,9 @@ alert(shout);
 `parseInt: converts string into number`
 
 <h3>Math</h3>
-`Math.floor: round the number down`
-`Math.ceil: round the number up`
-`Math.random: give a randon number from 0 to 1 (not include 1).`
+`Math.floor: round the number down`<br>
+`Math.ceil: round the number up`<br>
+`Math.random: give a randon number from 0 to 1 (not include 1).`<br>
 
 {% highlight ruby %}
 var dieRoll = Math.floor( Math.random() * 6 ) + 1;
