@@ -65,13 +65,13 @@ if {
 } else {
 }
 {% endhighlight %}
-<br>
+
 {% highlight ruby %}
 if {
 } else if {
 } if {
 }
-{% endhighlight %}<br>
+{% endhighlight %}
 
 <h4>and(&&)</h4>
 {% highlight ruby %}
