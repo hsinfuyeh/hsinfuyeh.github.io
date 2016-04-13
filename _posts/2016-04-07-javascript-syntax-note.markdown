@@ -51,14 +51,45 @@ alert('You rolled a ' + dieRoll);
 {% endhighlight %}
 You will get a random number from 1 to 6.
 
+<h3>conditional statement</h3>
+`> Greater than`<br>
+`>= Greater than or Equal To`<br>
+`< Less than`<br>
+`<= Less than or Equal to`<br>
+`== Equal to`<br>
+`=== Strict equal to`<br>
+`!= Not equal to`<br>
+`!== Strict not equal to`<br>
+{% highlight ruby %}
+if {
+} else {
+}
+{% endhighlight %}
+<br>
+{% highlight ruby %}
+if {
+} else if {
+} if {
+}
+{% endhighlight %}<br>
 
+<h4>and(&&)</h4>
+{% highlight ruby %}
+if (20 < age && age > 30) {
+}
+{% endhighlight %}
+Have to satisfy both of two conditions.<br>
 
+<h4>or(||)</h4>
+{% highlight ruby %}
+if (agree === 'yes' || agree === 'y') {
+}
+{% endhighlight %}
+Only have to satisfy one of conditions.
 
-
-
-
-
-
+<h3>comment</h3>
+`// single line comment`<br>
+`/* blablabla */ multiple line comment`
 
 
 
