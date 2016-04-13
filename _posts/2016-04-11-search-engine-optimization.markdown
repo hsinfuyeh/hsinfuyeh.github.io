@@ -16,4 +16,4 @@ categories: jekyll update
 10. 網頁的連入連結: 別人網站中的評價及分享
 11. 網頁的連出連結:
 12. 網頁關鍵字的同義字
-13. 影像檔案: 用關鍵字命名、<img src="Keyword.jpg" alt="Keyword">
+13. 影像檔案: 用關鍵字命名、`<img src="Keyword.jpg" alt="Keyword">`

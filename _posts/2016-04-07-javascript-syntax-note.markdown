@@ -73,14 +73,14 @@ if {
 }
 {% endhighlight %}
 
-<h4>and(&&)</h4>
+<h5>and(&&)</h5>
 {% highlight ruby %}
 if (20 < age && age > 30) {
 }
 {% endhighlight %}
 Have to satisfy both of two conditions.<br>
 
-<h4>or(||)</h4>
+<h5>or(||)</h5>
 {% highlight ruby %}
 if (agree === 'yes' || agree === 'y') {
 }
