@@ -91,6 +91,34 @@ Only have to satisfy one of conditions.
 `// single line comment`<br>
 `/* blablabla */ multiple line comment`
 
+<h3>function</h3>
+{% highlight ruby %}
+function function_name(parameter_list) {
+  function_body
+}
+{% endhighlight %}
+<h5>example:</h5>
+{% highlight ruby %}
+function big(a, b) {
+  if (a > b) {
+    return a;
+  } else {
+      return b;
+    }
+  }
+{% endhighlight %}
+
+<h3>fix the error</h3>
+{% highlight ruby %}
+function function_name( x, y) {
+  if ( isNaN( ) || isNaN( ) ) {
+    throw new Error('Error');
+  }
+}
+{% endhighlight %}
+
+
+
 
 
 
