@@ -11,6 +11,7 @@ min-height: calc(100vh - (footer's total height)px);
 
 <h3>clearfix</h3>
 three ways to solve the collapsing problem
+<br>
 1) Give it a height
 <br>
 2) `overflow: hidden;`
