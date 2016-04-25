@@ -31,9 +31,9 @@ three ways to solve the collapsing problem
 <h3>How to make heading stay fixed</h3>
 {% highlight ruby %}
 body {
-  padding-top: ##px;
+  padding-top: ?px;
 }
-(##: the height of the heading)
+．?: the height of the heading
 
 .main-header {
   position: fixed;
@@ -41,5 +41,5 @@ body {
   top: 0;
   z-index: 1;
 }
-(z-index: won't work if there's on position value )
+．z-index: will not work if there is no position value
 {% endhighlight %}
