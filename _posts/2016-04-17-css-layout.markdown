@@ -33,13 +33,14 @@ three ways to solve the collapsing problem
 body {
   padding-top: ?px;
 }
+{% endhighlight %}
 ．?: the height of the heading
-
+{% highlight ruby %}
 .main-header {
   position: fixed;
   width: 100%;
   top: 0;
   z-index: 1;
 }
-．z-index: will not work if there is no position value
 {% endhighlight %}
+．z-index: will not work if there is no position value
