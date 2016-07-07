@@ -32,5 +32,26 @@ MDN @media:
 <mata name="viewport" content="width=device-width">
 {% endhighlight %}
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [MDN CSS media queries]:https://teamtreehouse.com/library/css-basics/designing-with-the-latest-features/media-queries
 [MDN @media]:https://developer.mozilla.org/en-US/docs/Web/CSS/@media

@@ -8,7 +8,7 @@ Hell, my name is Hsinfu Yeh aka 葉信甫. I am learning HTML, CSS and JavaScrip
 
 You can find me on
 <br>
-Facebook: [https://www.facebook.com/Xinfu.Yeh][facebook]
+Facebook: [https://www.facebook.com][facebook]
 <br>
 Github: [https://github.com/hsinfuyeh][github]
 
