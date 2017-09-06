@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hell, my name is Hsinfu Yeh aka 葉信甫. I am learning HTML, CSS and JavaScript now. This is the site of my notes from learning front end development.
+Hell, my name is Sam Yeh aka 葉信甫. I am learning Html, CSS, Google Analytics and Google Adwords now. This is the site of my learning notes.
 
 You can find me on
 <br>
