@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 <h3>Demo Account</h3>
 {% highlight ruby %}
-[Google Analytics Demo Account][Google Analytics Demo Account]
+[Link][Google-Analytics-Demo-Account]
 {% endhighlight %}
 
-[Google Analytics Demo Account]:https://support.google.com/analytics/answer/6367342?hl=zh-Hant
+[Google-Analytics-Demo-Account]:https://support.google.com/analytics/answer/6367342?hl=zh-Hant
