@@ -11,7 +11,9 @@ categories: jekyll update
 ．效期價值(Lifetime Value)<br>
 ．同類群組分析(Cohort Analysis)<br>
 ．使用者多層檢視(User Explorer)<br>
-．客層(Demographics)－資料室來自第三方的DoubleClick Cookies，因此analytics.js及ga.js均不會收集「客層、興趣」。如遇收集特定網頁的客層資料需要{% highlight ruby %}在GATC中加入ga('require', 'displayfeatures');{% endhighlight %}。*置於ga('create', 'UA-xxxxxx-xx', 'example.com');及ga('send', 'pageview');之間。<br>
+．客層(Demographics)－資料室來自第三方的DoubleClick Cookies，因此analytics.js及ga.js均不會收集「客層、興趣」。<br>
+　　　　　　　　　　　{% highlight ruby %}如遇收集特定網頁的客層資料需要在GATC中加入ga('require', 'displayfeatures');。<br>
+　　　　　　　　　　　*置於ga('create', 'UA-xxxxxx-xx', 'example.com');及ga('send', 'pageview');之間。{% endhighlight %}<br>
 　　總覽(Overview)<br>
 　　年齡層(Age)<br>
 　　性別(Gender)<br>
@@ -35,7 +37,8 @@ categories: jekyll update
 　　總覽(Overview)<br>
 　　裝置(Devices)<br>
 ．自訂(Custom)－透過_utmv cookies達成。<br>
-　　自訂變數(Custom Variables)－{% highlight ruby %}在GATC中加入ga('set', 'dimension1', 'Test');{% endhighlight %}。*置於ga('create', 'UA-xxxxxx-xx', 'example.com');及ga('send', 'pageview');之間。<br>
+　　自訂變數(Custom Variables)－{% highlight ruby %}在GATC中加入ga('set', 'dimension1', 'Test');{% endhighlight %}。<br>
+　　*置於ga('create', 'UA-xxxxxx-xx', 'example.com');及ga('send', 'pageview');之間。{% endhighlight %}<br>
 　　使用者定義(User-Defined)<br>
 ．基準化(Benchmarketing)<br>
 ．使用者流程(Users Flow)<br>
