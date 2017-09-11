@@ -37,7 +37,7 @@ categories: jekyll update
 　　總覽(Overview)<br>
 　　裝置(Devices)<br>
 ．自訂(Custom)－透過_utmv cookies達成。<br>
-　　自訂變數(Custom Variables)－{% highlight ruby %}在GATC中加入ga('set', 'dimension1', 'Test');{% endhighlight %}。<br>
+　　自訂變數(Custom Variables)－{% highlight ruby %}在GATC中加入ga('set', 'dimension1', 'Test');。<br>
 　　*置於ga('create', 'UA-xxxxxx-xx', 'example.com');及ga('send', 'pageview');之間。{% endhighlight %}<br>
 　　使用者定義(User-Defined)<br>
 ．基準化(Benchmarketing)<br>
