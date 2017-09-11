@@ -18,5 +18,4 @@ categories: jekyll update
   _utmz: 儲存流量來源與活動相關資訊，屬於持續性Cookies，存續時間為6個月。<br>
   _ga: 屬於持續型Cookies，存續時間為2年。
 6. 1 Gmail Account > 100 GA Accounts > 50 Properties > 25 views
-7. 
 
