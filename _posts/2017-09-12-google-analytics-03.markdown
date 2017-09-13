@@ -26,25 +26,25 @@ categories: jekyll update
 　　影片廣告活動(Video Campaigns)<br>
 　　購物廣告活動(Shopping Campaigns)<br>
 ．搜尋引擎最佳化(Search Console): Admin→Property→Property Settings→Search Console Settings<br>
-　　(Landing Pages)<br>
-　　(Countries)<br>
-　　(Devices)<br>
-　　(Queries)<br>
-．(Social)<br>
-　　(Overview)<br>
-　　(Newwork Refferrals)<br>
-　　(Landing Pages)<br>
-　　(Conversions)<br>
-　　(Plug-ins)<br>
-　　(Users Flow)<br>
-．(Campaigns)<br>
-　　(All Campaigns)<br>
+　　到達網頁(Landing Pages)<br>
+　　國家/地區(Countries)<br>
+　　裝置(Devices)<br>
+　　查詢(Queries)<br>
+．社交(Social)<br>
+　　總覽(Overview)<br>
+　　社交網路參照連結網址(Newwork Refferrals)<br>
+　　到達網頁(Landing Pages)<br>
+　　轉換(Conversions)<br>
+　　外掛程式(Plug-ins)<br>
+　　使用者流程(Users Flow)<br>
+．廣告活動(Campaigns)<br>
+　　所有廣告活動(All Campaigns)<br>
 　　　　1. 非Google所屬的廣告活動分析: 需於連結網址加入特定參數"utm_source", "utm_medium", "utm_term", "utm_content"及"utm_campaign"。<br>
 　　　　　 網址生成器：[Link][URL-Builder]<br>
 　　　　2. Google所屬的廣告活動分析<br>
-　　(Paid Keywords)<br>
-　　(Organic Keywords)<br>
-　　(Cost Analysis)<br>
+　　付費關鍵字(Paid Keywords)<br>
+　　隨機關鍵字(Organic Keywords)<br>
+　　費用分析(Cost Analysis)<br>
 
 -----------------------------------------------------------------------<br>
 
