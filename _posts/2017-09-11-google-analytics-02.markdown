@@ -41,6 +41,9 @@ categories: jekyll update
 *置於ga('create', 'UA-xxxxxx-xx', 'example.com');及ga('send', 'pageview');之間。{% endhighlight %}<br>
 　　使用者定義(User-Defined)<br>
 ．基準化(Benchmarketing)<br>
+　　頻道(Channels)<br>
+　　地區(Location)<br>
+　　裝置(Devices)<br>
 ．使用者流程(Users Flow)<br>
 
 
