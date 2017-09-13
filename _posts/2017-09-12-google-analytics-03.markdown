@@ -8,9 +8,8 @@ categories: jekyll update
 {% highlight ruby %}{% endhighlight %}
 ．總覽(Overview)<br>
 ．所有流量(All Traffic)<br>
-　　頻道(Channels)<br>: 自訂新管道：Admin→View→Custom Channel Groupings
-　　樹狀圖(Treemaps): 主要指標(大小表示)、次要指標(顏色表示)<br>
-　　　　　　　　　　　　　、僅可顯示前15名。<br>
+　　頻道(Channels): 自訂新管道：Admin→View→Custom Channel Groupings<br>
+　　樹狀圖(Treemaps): 主要指標(大小表示)、次要指標(顏色表示)、僅可顯示前15名。<br>
 　　來源/媒介(Source/Medium)<br>
 　　參照連結網址(Referrals)<br>
 ．Adwords: 一個廣告活動可有多個廣告群組；一個廣告群組可有多個廣告。<br>
@@ -26,8 +25,7 @@ categories: jekyll update
 　　指定多媒體廣告聯播網(Display Targeting)<br>
 　　影片廣告活動(Video Campaigns)<br>
 　　購物廣告活動(Shopping Campaigns)<br>
-．搜尋引擎最佳化(Search Console): Admin→Property→Property Settings→
-　　　　　　　　　　　　　　　　　Search Console Settings<br>
+．搜尋引擎最佳化(Search Console): Admin→Property→Property Settings→Search Console Settings<br>
 　　(Landing Pages)<br>
 　　(Countries)<br>
 　　(Devices)<br>
@@ -41,11 +39,9 @@ categories: jekyll update
 　　(Users Flow)<br>
 ．(Campaigns)<br>
 　　(All Campaigns)<br>
-　　　　1. 非Google所屬的廣告活動分析: 需於連結網址加入特定參數
-　　　　　 "utm_source", "utm_medium", "utm_term", "utm_content"
- 　　　　　及"utm_campaign"。
+　　　　1. 非Google所屬的廣告活動分析: 需於連結網址加入特定參數"utm_source", "utm_medium", "utm_term", "utm_content"及"utm_campaign"。<br>
 　　　　　 網址生成器：[Link][URL-Builder]<br>
-　　　　2. Google所屬的廣告活動分析: 
+　　　　2. Google所屬的廣告活動分析<br>
 　　(Paid Keywords)<br>
 　　(Organic Keywords)<br>
 　　(Cost Analysis)<br>
