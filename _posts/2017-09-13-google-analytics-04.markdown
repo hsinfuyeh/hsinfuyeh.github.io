@@ -8,7 +8,8 @@ categories: jekyll update
 {% highlight ruby %}{% endhighlight %}
 <h4>總覽(Overview)</h4>
 <h4>行為流程(Behaviour Flow)</h4>
-<h4>網站內容(Site Content): 離開率v.s跳出率[Link][Exit-Bouncing]</h4>
+<h4>網站內容(Site Content): 離開率v.s跳出率</h4>
+　　[Link][Exit-Bouncing]<br>
 　　所有網頁(All Pages)<br>
 　　內容深入分析(Content Drilldown)<br>
 　　到達網頁(Landing Pages)<br>
