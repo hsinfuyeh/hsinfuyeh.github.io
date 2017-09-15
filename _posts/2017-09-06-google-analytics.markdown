@@ -2,7 +2,7 @@
 layout: post
 title:  "Google Analytics Demo Account"
 date:   2017-09-06 22:18:22 +0800
-categories: jekyll update
+categories: Google Analytics
 ---
 <h3>Demo Account</h3>
 {% highlight ruby %}{% endhighlight %}

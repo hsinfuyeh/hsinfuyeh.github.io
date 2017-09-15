@@ -2,7 +2,7 @@
 layout: post
 title:  "Google Analytics Note 2"
 date:   2017-09-11 16:19:00 +0800
-categories: jekyll update
+categories: Google Analytics
 ---
 <h3>目標對象(Audience)</h3>
 {% highlight ruby %}{% endhighlight %}
