@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Google Analytics Note 4"
+title:  "Google Analytics Note 5"
 date:   2017-09-14 16:13:00 +0800
 categories: jekyll update
 ---
