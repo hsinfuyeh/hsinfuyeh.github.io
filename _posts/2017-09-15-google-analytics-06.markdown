@@ -12,11 +12,11 @@ categories: jekyll update
 　　所有篩選器<br>
 　　變更紀錄<br>
 　　垃圾桶<br>
-．<h4>資源</h4><br>
+<h4>資源</h4>
 　　資源設定<br>
 　　使用者管理<br>
 　　追蹤資訊<br>
-　　．<h5>產品連結</h5><br>
+　　<h5>產品連結</h5>
 　　　　AdWords連結<br>
 　　　　AdSense連結<br>
 　　　　Ad Exchange連結<br>
@@ -26,7 +26,7 @@ categories: jekyll update
 　　　　目標對象定義<br>
 　　　　自訂定義<br>
 　　　　資料匯入<br>
-．<h4>資料檢視</h4><br>
+<h4>資料檢視</h4>
 　　檢視設定<br>
 　　使用者管理<br>
 　　目標<br>
@@ -36,7 +36,7 @@ categories: jekyll update
 　　電子商務設定<br>
 　　計算過的指標<br>
 　　<br>
-　　．<h5>個人工具與資源</h5><br>
+　　<h5>個人工具與資源</h5>
 　　　　區隔<br>
 　　　　註解<br>
 　　　　歸屬模式<br>
