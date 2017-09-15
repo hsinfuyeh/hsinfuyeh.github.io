@@ -39,7 +39,8 @@ categories: jekyll update
 　　使用者流程(Users Flow)<br>
 <h4>廣告活動(Campaigns)</h4>
 　　所有廣告活動(All Campaigns)<br>
-　　　　1. 非Google所屬的廣告活動分析: 需於連結網址加入特定參數"utm_source", "utm_medium", "utm_term", "utm_content"及"utm_campaign"。<br>
+　　　　1. 非Google所屬的廣告活動分析: 需於連結網址加入特定參數
+{% highlight ruby %}"utm_source", "utm_medium", "utm_term", "utm_content"及"utm_campaign"{% endhighlight %}
 　　　　　 網址生成器：[Link][URL-Builder]<br>
 　　　　2. Google所屬的廣告活動分析<br>
 　　付費關鍵字(Paid Keywords)<br>

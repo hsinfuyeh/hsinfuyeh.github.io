@@ -29,7 +29,7 @@ categories: jekyll update
 　　　　目標對象定義(Audience Definitions)<br>
 　　　　　　1.目標對象: 需手動於來源網頁及目標網頁修改GATC
 {% highlight ruby %}ga('require', 'displayfeatures'){% endhighlight %}
-　　　　　　2.動態屬性
+　　　　　　2.動態屬性<br>
 　　　　自訂定義(Custom Definitions)<br>
 　　　　資料匯入(Data Import)<br>
 <h4>資料檢視(View)</h4>
@@ -39,11 +39,11 @@ categories: jekyll update
 　　內容分組(Content Grouping)<br>
 　　　　1. 按追蹤程式碼分組(Group by Tracking Code): [Link][Group-by-TC]<br>
 　　　　2. 使用資訊擷取的群組(Group Using Extraction): [Link][Group-Using-Extraction]<br>
-　　　　3. 使用規則定義進行分組(Group Using Rule Definitions): 
+　　　　3. 使用規則定義進行分組(Group Using Rule Definitions):<br>
 　　篩選器(Filters): 主要功能為將不需要的流量排除<br>
 　　頻道設定(Channel Settings)<br>
 　　電子商務設定(E-commerce Settings)<br>
-　　計算過的指標(Calculated Metrics): 在GA內自訂算式進行跨報表的計算，並呈現於資訊主頁或自訂報表中。<br>
+　　計算過的指標(Calculated Metrics): 在GA內自訂算式進行跨報表的計算，並呈現於資訊主頁或自訂報表<br>
 　　<br>
 <h5>個人工具與資源(Personal Tools & Assets)</h5>
 　　　　區隔(Segments): 從已收集的流量資料中取用所需的資料並排除不需要的<br>

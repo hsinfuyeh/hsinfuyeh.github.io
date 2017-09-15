@@ -29,7 +29,15 @@ categories: jekyll update
 <h4>多管道程序(Multi-Channel Funnels)</h4>
 　　總覽(Overview)<br>
 　　輔助轉換(Assisted Coversions)<br>
-　　最佳轉換路徑(Top Conversion Paths): 多媒體廣告(Display)、付費搜尋(Paid Search)、其他廣告(Other Advertising)、隨機搜尋(Organic Search)、社交網路(Social Network)、參照連結網址(Referral)、電子郵件(Email)、直接(Direct)<br>
+　　最佳轉換路徑(Top Conversion Paths): 
+　　　　1.多媒體廣告(Display)
+　　　　2.付費搜尋(Paid Search)
+　　　　3.其他廣告(Other Advertising)
+　　　　4.隨機搜尋(Organic Search)
+　　　　5.社交網路(Social Network)
+　　　　6.參照連結網址(Referral)
+　　　　7.電子郵件(Email)
+　　　　8.直接(Direct)<br>
 　　轉換耗時(Time Lag)<br>
 　　路徑長度(Path Length)<br>
 <h4>功勞歸屬(Attribution)</h4>
