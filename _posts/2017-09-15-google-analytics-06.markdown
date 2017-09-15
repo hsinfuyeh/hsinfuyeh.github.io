@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 <h3>管理介面(Admin)</h3>
 {% highlight ruby %}{% endhighlight %}
-．<h4>帳戶(Account)</h4><br>
+．#### 帳戶(Account)<br>
 　　帳戶設定<br>
 　　使用者管理<br>
 　　所有篩選器<br>
