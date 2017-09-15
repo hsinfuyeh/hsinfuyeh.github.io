@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Google Analytics Note 5"
+date:   2017-09-15 16:27:00 +0800
+categories: jekyll update
+---
+<h3>管理介面(Admin)</h3>
+{% highlight ruby %}{% endhighlight %}
+．<h4><bold>帳戶(Account)</bold></h4><br>
+　　帳戶設定<br>
+　　使用者管理<br>
+　　所有篩選器<br>
+　　變更紀錄<br>
+　　垃圾桶<br>
+．<h4><bold>資源</bold></h4><br>
+　　資源設定<br>
+　　使用者管理<br>
+　　追蹤資訊<br>
+　　．<h5><bold>產品連結</bold></h5><br>
+　　　　AdWords連結<br>
+　　　　AdSense連結<br>
+　　　　Ad Exchange連結<br>
+　　　　所有產品<br>
+　　　　<br>
+　　　　回傳<br>
+　　　　目標對象定義<br>
+　　　　自訂定義<br>
+　　　　資料匯入<br>
+．<h4><bold>資料檢視</bold></h4><br>
+　　檢視設定<br>
+　　使用者管理<br>
+　　目標<br>
+　　內容分組<br>
+　　篩選器<br>
+　　頻道設定<br>
+　　電子商務設定<br>
+　　計算過的指標<br>
+　　<br>
+　　．<h5><bold>個人工具與資源</bold></h5><br>
+　　　　區隔<br>
+　　　　註解<br>
+　　　　歸屬模式<br>
+　　　　自訂管道分組<br>
+　　　　自訂快訊<br>
+　　　　定期寄送的電子郵件<br>
+　　　　捷徑<br>
+　　　　共用資源<br>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+

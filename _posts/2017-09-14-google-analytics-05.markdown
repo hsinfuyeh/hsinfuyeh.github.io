@@ -34,6 +34,6 @@ categories: jekyll update
 ．<bold>功勞歸屬(Attribution)</bold><br>
 　　模式比較工具(Model Comparison Tool): 最終互動(Last Interaction)、上次直接造訪點擊(Last Non-Direct Click)、對AdWords廣告的最終點擊(Last AdWords Click)、最初互動(First Interaction)、線性(Linear)、時間衰減(Time Decay)、根據排名(Position Based)<br>
 
------------------------------------------------------------------------<br>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
 
 [E-commerce]:https://developers.google.com/analytics/devguides/collection/analyticsjs/ecommerce

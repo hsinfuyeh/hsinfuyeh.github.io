@@ -39,7 +39,7 @@ send及event為告知GA目前將傳送事件、category: 事件類別、action: 
 
 
 
------------------------------------------------------------------------<br>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
 
 [Exit-Bouncing]:https://support.google.com/analytics/answer/2525491?hl=zh-Hant
 [User-Timing]:https://developers.google.com/analytics/devguides/collection/analyticsjs/user-timings?hl=zh-tw
