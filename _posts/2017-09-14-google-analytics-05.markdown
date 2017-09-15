@@ -13,7 +13,7 @@ categories: jekyll update
 　　程序視覺呈現(Funnel Visualisation)<br>
 　　目標流程(Goal Flow)<br>
 　　智慧目標(Smart Goals)<br>
-<h4>電子商務(E-commerce)</h4>: 需自行加入程式碼[Link][E-commerce]<br>
+<h4>電子商務(E-commerce): 需自行加入程式碼[Link][E-commerce]</h4>
 　　總覽(Overview)<br>
 　　購物行為(Shopping Behaviour)<br>
 　　結帳行為(Checkout Behaviour)<br>

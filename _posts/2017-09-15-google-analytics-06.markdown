@@ -16,7 +16,7 @@ categories: jekyll update
 　　資源設定<br>
 　　使用者管理<br>
 　　追蹤資訊<br>
-　　<h5>產品連結</h5>
+<h5>產品連結</h5>
 　　　　AdWords連結<br>
 　　　　AdSense連結<br>
 　　　　Ad Exchange連結<br>
@@ -36,7 +36,7 @@ categories: jekyll update
 　　電子商務設定<br>
 　　計算過的指標<br>
 　　<br>
-　　<h5>個人工具與資源</h5>
+<h5>個人工具與資源</h5>
 　　　　區隔<br>
 　　　　註解<br>
 　　　　歸屬模式<br>

@@ -8,7 +8,7 @@ categories: jekyll update
 {% highlight ruby %}{% endhighlight %}
 <h4>總覽(Overview)</h4>
 <h4>行為流程(Behaviour Flow)</h4>
-<h4>網站內容(Site Content)</h4>: 離開率v.s跳出率[Link][Exit-Bouncing]<br>
+<h4>網站內容(Site Content): 離開率v.s跳出率[Link][Exit-Bouncing]</h4>
 　　所有網頁(All Pages)<br>
 　　內容深入分析(Content Drilldown)<br>
 　　到達網頁(Landing Pages)<br>
@@ -23,7 +23,7 @@ categories: jekyll update
 　　使用情況(Usage)<br>
 　　搜尋字詞(Search Terms)<br>
 　　搜尋網頁(Search Pages)<br>
-<h4>事件(Events)</h4>: 網站上被觸發的事物分兩類，事件及目標。事件－觸發之事物並未開啟新分頁。目標－觸發之事物開啟新分頁。<br>
+<h4>事件(Events): 網站上被觸發的事物分兩類，事件及目標。事件－觸發之事物並未開啟新分頁。目標－觸發之事物開啟新分頁</h4>
 　　總覽(Overview)<br>
 　　熱門事件(Top Events)<br>
 　　網頁(Pages): 事件觸發需加入程式碼<br>
