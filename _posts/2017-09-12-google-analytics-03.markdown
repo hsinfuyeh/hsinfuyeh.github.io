@@ -8,20 +8,21 @@ categories: Google Analytics
 {% highlight ruby %}{% endhighlight %}
 <h4>總覽(Overview)</h4>
 <h4>所有流量(All Traffic)</h4>
-　　頻道(Channels): 自訂新管道：Admin→View→Custom Channel Groupings<br>
+　　頻道(Channels): 了解不同進佔來源的訪客參訪行為之差異。七個預設管道－隨機搜尋(Organic Search)、參照連結網址(Referral)、直接(Direct)、社交(Social)、多媒體廣告(Display)、付費關鍵字(Paid Search)、聯盟(Affiliate)<br>
+{% highlight ruby %}自訂新管道：Admin→View→Custom Channel Groupings{% endhighlight %}
 　　樹狀圖(Treemaps): 主要指標(大小表示)、次要指標(顏色表示)、僅可顯示前15名。<br>
-　　來源/媒介(Source/Medium)<br>
+　　來源/媒介(Source/Medium): 前者指引導訪客進站的來源處，如直接(Direct)或網站網址。後者為訪客進站所使用的載體，包含隨機搜尋(Organic)、參照連結網址(Referral)、電子郵件(Email)、點擊付費廣告(CPC)<br>
 　　參照連結網址(Referrals)<br>
 <h4>Adwords: 一個廣告活動可有多個廣告群組；一個廣告群組可有多個廣告</h4>
 　　帳戶(Accounts)<br>
 　　廣告活動(Campaigns)<br>
 　　樹狀圖(Treemaps)<br>
 　　網站連結(Sitelinks)<br>
-　　出價調整幅度(Bid Adjustments)<br>
+　　出價調整幅度(Bid Adjustments): 針對不同裝置、地區及廣告時段設定等項目，給予不同關鍵字廣告預算。<br>
 　　關鍵字(Keywords)<br>
 　　搜尋查詢(Search Queries)<br>
 　　時段(Hour of Day)<br>
-　　最終到達網址(Final URLs)<br>
+　　最終到達網址(Final URLs): AdWords廣告曾將使用者帶往哪些網址<br>
 　　指定多媒體廣告聯播網(Display Targeting)<br>
 　　影片廣告活動(Video Campaigns)<br>
 　　購物廣告活動(Shopping Campaigns)<br>
