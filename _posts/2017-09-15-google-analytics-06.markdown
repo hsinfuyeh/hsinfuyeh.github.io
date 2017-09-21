@@ -11,14 +11,14 @@ categories: Google Analytics
 　　使用者管理(User Management)<br>
 　　所有篩選器(All Filters)<br>
 　　變更紀錄(Change History)<br>
-　　垃圾桶(Rubbish Bin)<br>
+　　垃圾桶(Rubbish Bin): 項目會保留35天<br>
 <h4>資源(Property)</h4>
 　　資源設定(Property Settings)<br>
 　　　　＊資源匹配次數(Property Hit Volume): 免費版每月上限1千萬筆資料；付費版每月上限10億筆資料<br>
 　　　　＊網頁活動分析(In-Page Analytics): 使用加強連結歸屬，需手動於來源網頁及目標網頁修改GATC<br>
 {% highlight ruby %}ga('require', 'linkid', 'linkid.js'){% endhighlight %}
 　　使用者管理(User Management)<br>
-　　追蹤資訊(Tracking Info)<br>
+　　追蹤資訊(Tracking Info): 工作階段設定內的工作階段逾時: 最短1分鐘最長4小時、廣告活動逾時最短6個月最長24個月<br>
 <h5>產品連結(Product Linking)</h5>
 　　　　AdWords連結(AdWords Linking)<br>
 　　　　AdSense連結(AdSense Linking)<br>

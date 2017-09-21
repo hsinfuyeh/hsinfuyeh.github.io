@@ -30,7 +30,7 @@ categories: Google Analytics
 <h4>多管道程序(Multi-Channel Funnels)</h4>
 　　總覽(Overview)<br>
 　　輔助轉換(Assisted Coversions): 轉換前訪客與網站之間的任何非最終互動<br>
-　　最佳轉換路徑(Top Conversion Paths): 
+　　最佳轉換路徑(Top Conversion Paths):<br>
 　　　　1.多媒體廣告(Display): 透過千次曝光出價(CPM, Cost-per-thousand-impressions)<br>
 　　　　2.付費搜尋(Paid Search): 藉由單次點擊出價(CPC, Cost-per-click)或每次點擊出價(Pay-per-click, PPC)<br>
 　　　　3.其他廣告(Other Advertising): 媒介標記為「cpc」、「ppc」、「cpm」、「cpv」、「cpa」、「cpp」或「affiliate」(不含付費搜尋) 的工作階段<br>
@@ -42,7 +42,7 @@ categories: Google Analytics
 　　轉換耗時(Time Lag)<br>
 　　路徑長度(Path Length)<br>
 <h4>功勞歸屬(Attribution)</h4>
-　　模式比較工具(Model Comparison Tool): 
+　　模式比較工具(Model Comparison Tool):<br>
 　　　　1.最終互動(Last Interaction): 完成目標轉換前的最終互動(Direct)<br>
 　　　　2.上次非直接造訪點擊(Last Non-Direct Click): 完成目標轉換前的最終互動，但非透過直接輸入方式(Email)<br>
 　　　　3.對AdWords廣告的最終點擊(Last AdWords Click): 歸功於最後一則AdWords廣告<br>
