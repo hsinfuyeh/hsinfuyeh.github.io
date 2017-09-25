@@ -33,7 +33,7 @@ categories: Google Analytics
 　　最佳轉換路徑(Top Conversion Paths):<br>
 　　　　1.多媒體廣告(Display): 透過千次曝光出價(CPM, Cost-per-thousand-impressions)<br>
 　　　　2.付費搜尋(Paid Search): 藉由單次點擊出價(CPC, Cost-per-click)或每次點擊出價(Pay-per-click, PPC)<br>
-　　　　3.其他廣告(Other Advertising): 媒介標記為「cpc」、「ppc」、「cpm」、「cpv」、「cpa」、「cpp」或「affiliate」(不含付費搜尋) 的工作階段<br>
+　　　　3.其他廣告(Other Advertising): 媒介標記為`「cpc」、「ppc」、「cpm」、「cpv」、「cpa」、「cpp」或「affiliate」`(不含付費搜尋) 的工作階段<br>
 　　　　4.隨機搜尋(Organic Search)<br>
 　　　　5.社交網路(Social Network)<br>
 　　　　6.參照連結網址(Referral): 由非社交網路網站所帶來的流量<br>
@@ -49,8 +49,8 @@ categories: Google Analytics
 　　　　4.最初互動(First Interaction): 訪客與網站最初互動(AdWords)<br>
 　　　　5.線性(Linear): 將功勞均分給完成轉換前曾互動過的每一環節<br>
 　　　　6.時間衰減(Time Decay)以距離轉換日期長短作為判斷依據，距離越近功勞越大<br>
-　　　　7.根據排名(Position Based): 焦點置於最初與最終互動(80%=Paid Search and Direct, 20%= Social and Email)<br>
+　　　　7.根據排名(Position Based): 焦點置於最初與最終互動`(80%=Paid Search and Direct, 20%= Social and Email)`<br>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+- - -
 
 [E-commerce]:https://developers.google.com/analytics/devguides/collection/analyticsjs/ecommerce

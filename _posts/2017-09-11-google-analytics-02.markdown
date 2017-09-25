@@ -42,13 +42,13 @@ categories: Google Analytics
 ＊置於ga('create', 'UA-xxxxxx-xx', 'example.com');及ga('send', 'pageview');之間。{% endhighlight %}<br>
 　　使用者定義(User-Defined)<br>
 <h4>基準化(Benchmarketing)</h4>
-　　頻道(Channels): 七種預設管道分組－隨機搜尋(Organic Search)、參照連結網址(Referral)、直接(Direct)、社交(Social)、多媒體廣告(Display)、付費關鍵字(Paid Search)、電子郵件(Email)<br>
+　　頻道(Channels): 七種預設管道分組－`隨機搜尋(Organic Search)`、`參照連結網址(Referral)`、`直接(Direct)`、`社交(Social)`、`多媒體廣告(Display)`、`付費關鍵字(Paid Search)`、`電子郵件(Email)`<br>
 　　地區(Location)<br>
 　　裝置(Devices)<br>
 <h4>使用者流程(Users Flow)</h4>
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+- - -
 
 ＊DoubleClick: 隸屬於Google旗下的廣告推播服務，簡化規劃、投放、指定目標、放送、最佳化和產生報表等流程。<br>
 

@@ -32,7 +32,7 @@ categories: Google Analytics
 　　熱門事件(Top Events)<br>
 　　網頁(Pages): 事件觸發需加入程式碼<br>
 {% highlight ruby %}<a href="example.com" onclick="ga('send', 'event', 'catagory', 'action', 'label', 'value')">title</a>{% endhighlight %}
-send及event為告知GA目前將傳送事件、category: 事件類別、action: 事件動作、label: 活動標籤、value: 事件值(事件觸發所衍生的值)<br>
+`send及event為告知GA目前將傳送事件`、`category: 事件類別`、`action: 事件動作`、`label: 活動標籤`、`value: 事件值(事件觸發所衍生的值)`<br>
 ＊或是可以將event改為pageview用虛擬網頁的方式，將點擊視為一個網頁瀏覽。<br>
 　　事件流程(Events Flow)<br>
 <h4>發佈商(Publisher): 刊登廣告需求者；出版商則為提供網站供廣告刊登</h4>
@@ -43,7 +43,7 @@ send及event為告知GA目前將傳送事件、category: 事件類別、action: 
 
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+- - -
 
 [Exit-Bouncing]:https://support.google.com/analytics/answer/2525491?hl=zh-Hant
 [User-Timing]:https://developers.google.com/analytics/devguides/collection/analyticsjs/user-timings?hl=zh-tw

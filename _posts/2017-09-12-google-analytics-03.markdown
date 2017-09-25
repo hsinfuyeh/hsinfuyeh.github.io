@@ -8,10 +8,10 @@ categories: Google Analytics
 {% highlight ruby %}{% endhighlight %}
 <h4>總覽(Overview)</h4>
 <h4>所有流量(All Traffic)</h4>
-　　頻道(Channels): 了解不同進佔來源的訪客參訪行為之差異。七個預設管道－隨機搜尋(Organic Search)、參照連結網址(Referral)、直接(Direct)、社交(Social)、多媒體廣告(Display)、付費關鍵字(Paid Search)、聯盟(Affiliate)<br>
+　　頻道(Channels): 了解不同進佔來源的訪客參訪行為之差異。七個預設管道－`隨機搜尋(Organic Search)`、`參照連結網址(Referral)`、`直接(Direct)`、`社交(Social)`、`多媒體廣告(Display)`、`付費關鍵字(Paid Search)`、`聯盟(Affiliate)`<br>
 {% highlight ruby %}自訂新管道：Admin→View→Custom Channel Groupings{% endhighlight %}
-　　樹狀圖(Treemaps): 主要指標(大小表示)、次要指標(顏色表示)、僅可顯示前15名。<br>
-　　來源/媒介(Source/Medium): 前者指引導訪客進站的來源處，如直接(Direct)或網站網址。後者為訪客進站所使用的載體，包含隨機搜尋(Organic)、參照連結網址(Referral)、電子郵件(Email)、點擊付費廣告(CPC)<br>
+　　樹狀圖(Treemaps): `主要指標(大小表示)`、`次要指標(顏色表示)`、僅可顯示前15名。<br>
+　　來源/媒介(Source/Medium): 前者指引導訪客進站的來源處，如`直接(Direct)`或`網站網址`。後者為訪客進站所使用的載體，包含`隨機搜尋(Organic)`、`參照連結網址(Referral)`、`電子郵件(Email)`、`點擊付費廣告(CPC)`<br>
 　　參照連結網址(Referrals)<br>
 <h4>Adwords: 一個廣告活動可有多個廣告群組；一個廣告群組可有多個廣告</h4>
 　　帳戶(Accounts)<br>
@@ -48,7 +48,7 @@ categories: Google Analytics
 　　隨機關鍵字(Organic Keywords)<br>
 　　費用分析(Cost Analysis)<br>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
+- - -
 
 [URL-Builder]:https://ga-dev-tools.appspot.com/campaign-url-builder
 [GA-Facebook-like-button]:https://developers.google.com/analytics/devguides/collection/analyticsjs/social-interactions
