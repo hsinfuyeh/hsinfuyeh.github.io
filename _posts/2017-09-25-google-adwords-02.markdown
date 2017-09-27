@@ -36,6 +36,7 @@ categories: Google AdWords
     * `Mobile app engagement`: enourage actions within your app<br>
     * `Dynamic search ads`: targeted based on your website content<br>
     * `Call-only`: encourage people to call your business<br>
+    
 - - -
 
 

@@ -51,6 +51,7 @@ categories: Google AdWords
    * prevents ad from showing on unrelated searches or websites<br>
    * add minus sign (-) before terms that should never trigger ads<br>
    [Match Type][match-type]
+
 - - -
 
 [match-type]:https://support.google.com/adwords/answer/2497836
