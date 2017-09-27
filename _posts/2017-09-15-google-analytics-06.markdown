@@ -27,9 +27,9 @@ categories: Google Analytics
 　　　　<br>
 　　　　回傳(Postbacks)<br>
 　　　　目標對象定義(Audience Definitions)<br>
-　　　　　　1.目標對象: 需手動於來源網頁及目標網頁修改GATC
+　　　　　　1. 目標對象: 需手動於來源網頁及目標網頁修改GATC
 {% highlight ruby %}ga('require', 'displayfeatures'){% endhighlight %}
-　　　　　　2.動態屬性<br>
+　　　　　　2. 動態屬性<br>
 　　　　自訂定義(Custom Definitions)<br>
 　　　　資料匯入(Data Import)<br>
 <h4>資料檢視(View)</h4>

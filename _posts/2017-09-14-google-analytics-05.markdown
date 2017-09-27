@@ -31,25 +31,25 @@ categories: Google Analytics
 　　總覽(Overview)<br>
 　　輔助轉換(Assisted Coversions): 轉換前訪客與網站之間的任何非最終互動<br>
 　　最佳轉換路徑(Top Conversion Paths):<br>
-　　　　1.多媒體廣告(Display): 透過千次曝光出價(CPM, Cost-per-thousand-impressions)<br>
-　　　　2.付費搜尋(Paid Search): 藉由單次點擊出價(CPC, Cost-per-click)或每次點擊出價(Pay-per-click, PPC)<br>
-　　　　3.其他廣告(Other Advertising): 媒介標記為`「cpc」、「ppc」、「cpm」、「cpv」、「cpa」、「cpp」或「affiliate」`(不含付費搜尋) 的工作階段<br>
-　　　　4.隨機搜尋(Organic Search)<br>
-　　　　5.社交網路(Social Network)<br>
-　　　　6.參照連結網址(Referral): 由非社交網路網站所帶來的流量<br>
-　　　　7.電子郵件(Email)<br>
-　　　　8.直接(Direct)<br>
+　　　　1. 多媒體廣告(Display): 透過千次曝光出價(CPM, Cost-per-thousand-impressions)<br>
+　　　　2. 付費搜尋(Paid Search): 藉由單次點擊出價(CPC, Cost-per-click)或每次點擊出價(Pay-per-click, PPC)<br>
+　　　　3. 其他廣告(Other Advertising): 媒介標記為`「cpc」、「ppc」、「cpm」、「cpv」、「cpa」、「cpp」或「affiliate」`(不含付費搜尋) 的工作階段<br>
+　　　　4. 隨機搜尋(Organic Search)<br>
+　　　　5. 社交網路(Social Network)<br>
+　　　　6. 參照連結網址(Referral): 由非社交網路網站所帶來的流量<br>
+　　　　7. 電子郵件(Email)<br>
+　　　　8. 直接(Direct)<br>
 　　轉換耗時(Time Lag)<br>
 　　路徑長度(Path Length)<br>
 <h4>功勞歸屬(Attribution)</h4>
 　　模式比較工具(Model Comparison Tool):<br>
-　　　　1.最終互動(Last Interaction): 完成目標轉換前的最終互動(Direct)<br>
-　　　　2.上次非直接造訪點擊(Last Non-Direct Click): 完成目標轉換前的最終互動，但非透過直接輸入方式(Email)<br>
-　　　　3.對AdWords廣告的最終點擊(Last AdWords Click): 歸功於最後一則AdWords廣告<br>
-　　　　4.最初互動(First Interaction): 訪客與網站最初互動(AdWords)<br>
-　　　　5.線性(Linear): 將功勞均分給完成轉換前曾互動過的每一環節<br>
-　　　　6.時間衰減(Time Decay)以距離轉換日期長短作為判斷依據，距離越近功勞越大<br>
-　　　　7.根據排名(Position Based): 焦點置於最初與最終互動`(80%=Paid Search and Direct, 20%= Social and Email)`<br>
+　　　　1. 最終互動(Last Interaction): 完成目標轉換前的最終互動(Direct)<br>
+　　　　2. 上次非直接造訪點擊(Last Non-Direct Click): 完成目標轉換前的最終互動，但非透過直接輸入方式(Email)<br>
+　　　　3. 對AdWords廣告的最終點擊(Last AdWords Click): 歸功於最後一則AdWords廣告<br>
+　　　　4. 最初互動(First Interaction): 訪客與網站最初互動(AdWords)<br>
+　　　　5. 線性(Linear): 將功勞均分給完成轉換前曾互動過的每一環節<br>
+　　　　6. 時間衰減(Time Decay)以距離轉換日期長短作為判斷依據，距離越近功勞越大<br>
+　　　　7. 根據排名(Position Based): 焦點置於最初與最終互動`(80%=Paid Search and Direct, 20%= Social and Email)`<br>
 
 - - -
 

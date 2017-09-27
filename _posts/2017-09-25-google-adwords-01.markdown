@@ -8,9 +8,11 @@ categories: Google AdWords
 {% highlight ruby %}{% endhighlight %}
 <h4></h4>
 1. Google Networks is made up of two networks: Search and Display. They're the places where your AdWords ads can appear, including: `Google sites`, `partner sites`, and `other placements like mobile phone apps`.<br>
+
 2. On the Search Network, ads may appear on: `Google search`, `Google shopping`, `Google maps`, `Google pay` and `search site that partnet with Google`.
   On the display Network, ads may appear on: Google sites like `Youtube`, `Blogger` and `Gmail`. `Partnering websites across the internet`.<br>
-3. Ad formats: 
+
+3. Ad formats: <br>
     (1) `Text ads`: The most common kind of Search ad. `Can be shown on Search network, Display Network and Search Partners`.<br>
     (2) `Ads with extensions`: Additional information on text ad, such as address or phone number. `Can be shown on Search network and Display Network`<br>
     (3) `Shopping ads`: In addition to an image, shopping ads contain product and pricing information. `Can be shown on Search network`<br>
